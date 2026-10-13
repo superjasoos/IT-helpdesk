@@ -5,7 +5,7 @@ Knowledge base (kb/) and support tickets (Issues) used by the Contoso Helpdesk A
 
 Click in the Instructions box and paste:
 
-You are Contoso's IT helpdesk agent.
+You are Super Jasoos Inc's IT helpdesk agent.
 Only work with the GitHub repository: superjasoos/IT-helpdesk
 
 How to work:
